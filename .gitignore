@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.swp
+.env
+.venv
+.cache/
+dist/
+build/
+*.egg-info/
+*.log
+*.pid
+.DS_Store
+*.onnx
